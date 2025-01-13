@@ -1,0 +1,11 @@
+{
+  "announcements": [
+    {
+      "id": "maintenance-2023-12",
+      "message": "Scheduled maintenance completed successfully.",
+      "timestamp": "2023-12-15T00:00:00Z",
+      "severity": "info",
+      "allowDismiss": true
+    }
+  ]
+}
