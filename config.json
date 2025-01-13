@@ -25,7 +25,7 @@
       "timestamp": "2025-01-12T16:00:00Z",
       "severity": "critical",
       "allowDismiss": false
-    }
+    },
     {
       "id": "ai-announcement-2024",
       "message": "Message 4",
