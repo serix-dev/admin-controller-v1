@@ -1,6 +1,6 @@
 {
   "systemStatus": {
-    "enabled": true,
+    "enabled": false,
     "message": null,
     "timestamp": "2024-01-20T00:00:00Z"
   },
