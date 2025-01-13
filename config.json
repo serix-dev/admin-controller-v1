@@ -1,0 +1,16 @@
+{
+  "systemStatus": {
+    "enabled": true,
+    "message": null,
+    "timestamp": "2024-01-20T00:00:00Z"
+  },
+  "announcements": [
+    {
+      "id": "welcome-2024",
+      "message": "Welcome to Serix! We're excited to help you manage your data pipelines.",
+      "timestamp": "2024-01-20T00:00:00Z",
+      "severity": "info",
+      "allowDismiss": true
+    }
+  ]
+}
